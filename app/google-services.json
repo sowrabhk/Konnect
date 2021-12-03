@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852625360312",
+    "project_id": "vigo-chat-62a0a",
+    "storage_bucket": "vigo-chat-62a0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852625360312:android:4af9d6faa9e2d510a67b4d",
+        "android_client_info": {
+          "package_name": "com.charan.videocallapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852625360312-ljroal44ocem90gsmoki51kpr049kble.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfMRzQpkO5RQ0iQQE8hYMSXKG-X--Ag_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852625360312-ljroal44ocem90gsmoki51kpr049kble.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VIGO CHAT</string>
+    <string name="vigo_chat">VIGO CHAT</string>
+    <string name="todo">TODO</string>
+    <string name="email_adress">Email Adress</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="Dashboard">Dashboard</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="login">login</string>
+</resources>
